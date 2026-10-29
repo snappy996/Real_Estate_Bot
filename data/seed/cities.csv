@@ -1,0 +1,3 @@
+city_id,name,state,rera_portal_url,stamp_duty_pct,registration_pct,registration_cap_inr,other_duty_pct,rates_source,rates_verified_on
+hyd,Hyderabad,Telangana,https://rera.telangana.gov.in,,,,,,
+pune,Pune,Maharashtra,https://maharera.maharashtra.gov.in,,,,,,

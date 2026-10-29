@@ -1,0 +1,11 @@
+locality_id,city_id,name,zone,lat,lng,is_covered,centroid_source
+hyd-gachibowli,hyd,Gachibowli,West,17.4401,78.3489,true,approximate
+hyd-kokapet,hyd,Kokapet,West,17.3960,78.3360,true,approximate
+hyd-lingampally,hyd,Lingampally,West,17.4930,78.3170,true,approximate
+hyd-kukatpally,hyd,Kukatpally,North-West,17.4849,78.4138,true,approximate
+hyd-tellapur,hyd,Tellapur,West,17.4630,78.2830,true,approximate
+pune-kharadi,pune,Kharadi,East,18.5515,73.9348,true,approximate
+pune-wagholi,pune,Wagholi,East,18.5800,73.9787,true,approximate
+pune-kalyani-nagar,pune,Kalyani Nagar,East,18.5463,73.9033,true,approximate
+pune-yerwada,pune,Yerwada,East,18.5530,73.8865,true,approximate
+pune-hadapsar,pune,Hadapsar,East,18.5089,73.9260,true,approximate

@@ -1,0 +1,15 @@
+# Python 3.12
+psycopg[binary]>=3.2
+httpx>=0.27
+python-dotenv>=1.0
+streamlit>=1.40
+google-genai>=1.0
+groq>=0.13
+numpy>=2.0
+pandas>=2.2
+selectolax>=0.3
+pdfplumber>=0.11
+# later phases
+# playwright>=1.48     # JavaScript-heavy portals
+# lightgbm>=4.5        # Phase 6 price models
+# statsmodels>=0.14    # Phase 5 event study
